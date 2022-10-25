@@ -1,6 +1,5 @@
-### <div align="center">Hi! 👋 I'm Hanif Fauzi Hakim, a software engineer that loves learning something new and build web services!</div>  
+## <div align="center">Hi! 👋 I'm Hanif Fauzi Hakim, a software engineer that loves learning something new and build web services!</div>  
   
-
 - 🔭 I’m currently working  on [PT Solusi Pembayaran Elektronik](https://spesolution.com/) one of greatest financial tech companies at Indonesia!   
   
 
