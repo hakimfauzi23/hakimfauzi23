@@ -3,7 +3,7 @@
 - 🔭 I’m currently working  on [PT Solusi Pembayaran Elektronik](https://spesolution.com/) one of greatest financial tech companies at Indonesia!   
   
 
-- 🌱 I’m currently learning Golang, Node JS, Message Broker, and Dockerization Deployments!  
+- 🌱 I’m currently learning Java, Node JS, Message Broker, and Dockerization Deployments!  
   
 
 - ❓ Ask me about anything related to PHP stack and related technologies  
